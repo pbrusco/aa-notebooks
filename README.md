@@ -8,15 +8,15 @@
 
 ### Instalación
 #### Anaconda:
-https://conda.io/docs/user-guide/install/windows.html
-https://conda.io/docs/user-guide/install/macos.html
-https://conda.io/docs/user-guide/install/linux.html
+- https://conda.io/docs/user-guide/install/windows.html
+- https://conda.io/docs/user-guide/install/macos.html
+- https://conda.io/docs/user-guide/install/linux.html
 
 #### Paquetes de python:
-pip install numpy matplotlib seaborn pandas sklearn scipy
+- pip install numpy matplotlib seaborn pandas sklearn scipy
 
 #### Para leer (introducción al lenguaje)
-https://learnxinyminutes.com/docs/python3/
+- https://learnxinyminutes.com/docs/python3/
 
 #### Para leer (introducción a algunas de las librerías)
-https://jakevdp.github.io/PythonDataScienceHandbook/ 
+- https://jakevdp.github.io/PythonDataScienceHandbook/ 
