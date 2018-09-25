@@ -1,5 +1,5 @@
-matplotlib
-pandas
-numpy
-sklearn
-seaborn
+matplotlib==2.1.2
+pandas==0.22.0
+numpy==1.14.3
+sklearn==0.19.1
+seaborn==0.8.1
